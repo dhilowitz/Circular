@@ -9,3 +9,7 @@ uploads/
 
 api/vendor/
 api/oauth-fake.php
+
+/sftp-config.json
+/circular.decided.ly.sublime-workspace
+/circular.decided.ly.sublime-project
